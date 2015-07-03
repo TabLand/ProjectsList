@@ -24,3 +24,11 @@ A list of projects I'd like to be bothered enough to work and improve
 10] Web based system diagrammer
 
 11] Oh na na misspell my name dot tk
+
+Papercraft
+
+1] Finish Yamaha YZF-R1 Motorbike
+
+2] Mitsubishi FTO
+
+3] Ball joint
