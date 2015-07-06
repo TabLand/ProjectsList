@@ -15,13 +15,9 @@ A list of projects I'd like to be bothered enough to work and improve
 
 6] Ascii Copter
 
-7] Logrotate fortnigthly
+7] Log intercepter daemon with named pipes and tee
 
-8] Log intercepter daemon with named pipes
-
-9] Jira default comment visibility
-
-10] Http access log world mapper - real time
+8] Http access log world mapper - real time
 
 Papercraft
 
