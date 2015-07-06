@@ -21,9 +21,7 @@ A list of projects I'd like to be bothered enough to work and improve
 
 9] Jira default comment visibility
 
-10] Oh na na misspell my name dot tk
-
-11] Http access log world mapper - real time
+10] Http access log world mapper - real time
 
 Papercraft
 
