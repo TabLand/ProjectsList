@@ -17,13 +17,13 @@ A list of projects I'd like to be bothered enough to work and improve
 
 7] Logrotate fortnigthly
 
-8] Log intercepter daemon
+8] Log intercepter daemon with named pipes
 
 9] Jira default comment visibility
 
-10] Web based system diagrammer
+10] Oh na na misspell my name dot tk
 
-11] Oh na na misspell my name dot tk
+11] Http access log world mapper - real time
 
 Papercraft
 
