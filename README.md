@@ -21,8 +21,6 @@ A list of projects I'd like to be bothered enough to work and improve
 
 Papercraft
 
-1] Finish Yamaha YZF-R1 Motorbike
+1] Ball joint
 
 2] Mitsubishi FTO
-
-3] Ball joint
