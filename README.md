@@ -5,19 +5,19 @@ A list of projects I'd like to be bothered enough to work and improve
 
 1] DineMe
 
-2] RobMe
+2] PayMe
 
-3] KidnapMe
+3] FindMe
 
 4] CalendarWidget
 
-5] NSFW-inator
+5] SFW-inator
 
 6] Ascii Copter
 
-7] Log intercepter daemon with named pipes and tee
+7] Http access log world mapper - real time
 
-8] Http access log world mapper - real time
+8] Car complaints history mailing list
 
 Papercraft
 
